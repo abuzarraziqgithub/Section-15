@@ -4,7 +4,7 @@
  * There are many ways of planning a Project and there are different organizations who use these techniques to make a powerful project.
 * The most useful way of planning a web project is divided into 4 steps:
    ? 1- User Stories
-                    * It is the first step of a project plan is the User Stories, It is the Description of the application's functionality from the user's perspective.
+                    * The first step of a project planing is the User Stories, It is the Description of the application's functionality from the user's perspective.
                     * All user stories put together describe the entire application.
   ? 2- Features
                 * After describing application functionality by the user perspective, we developers can implement that to add features to our application.
