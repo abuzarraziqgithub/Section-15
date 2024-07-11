@@ -20,3 +20,17 @@
   ? 5- Development Step
                 * After getting a user stories to identify features, making a flow chart and architecture, we are ready to start making our Project. 
 */
+
+//! Explanation:
+/*
+ * User Story: Description of the application's functionality from the user's perspective.
+ 
+
+? Common Format: As a [type of user], I want [an action] so that [a benefit]
+ [type user - who? user, admin etc],  [an action - what?], [a benefit - why?] 
+  * These are some queries we will implement in our Mapty project.
+
+                * As a user, I want to log my running workouts with location, distance, time, pace and steps/minute.  
+                * As a user, I want to see all my workouts at a glance, so I can easily track my progress overtime
+                * As a user, I want to see all my workouts when I leave the app and come back later, so that I can keep using there app over time.
+*/
